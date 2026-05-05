@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2408d45d6b5ef023",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee21f5e08d725102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b84e942ac3e7c94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-history/shanxiang-edu-theory_2026-05-02-19-41/lessons/lesson_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lesson_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d0c0f6310e7f45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "705d5e9157ff8831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487bf827472a5192",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f2b2130e94239306",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3b372d9232017895",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed3daeb58d1e57ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d45bdaa400d1f02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18340c1251c4b1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLAUDE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CLAUDE 的反向链接列表"
+            }
+          },
+          {
+            "id": "a6cfd7808fac8b89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLAUDE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CLAUDE 的出链列表"
+            }
+          },
+          {
+            "id": "d01594e6f0c11663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f231e03117e73688",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "20f4ccc20cacf78f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLAUDE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CLAUDE 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b84e942ac3e7c94f",
+  "lastOpenFiles": [
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41/lessons/lesson_1.md",
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41/lessons/lesson_2.md",
+    "tmp/琛哥25通用山香大红本_part1_101-199_20260502_191430/full.md",
+    "tmp/琛哥25通用山香大红本_part1_1-100_20260502_191137/full.md",
+    "CLAUDE.md",
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41/roadmap_status.md",
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41/summary.md",
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41/lessons",
+    "learning-history/shanxiang-edu-theory_2026-05-02-19-41",
+    "learning-history/README.md",
+    "settings/glossary.md",
+    "settings/background.md"
+  ]
+}

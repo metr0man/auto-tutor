@@ -185,17 +185,20 @@ answers/
 manim-projects/
 !manim-projects/README.md
 
-# learning-history (only root directory)
-/learning-history/
-!/learning-history/README.md
 
 # lectures
 lectures/
 !lectures/README.md
 
-# tmp directory
-tmp/
+# tmp directory - track converted markdown and images, exclude origin PDFs
+tmp/*
 !tmp/README.md
+!tmp/*/
+!tmp/*/full.md
+!tmp/*/images/
+!tmp/*/images/*
+tmp/*/*.pdf
+tmp/*/*.json
 
 # cache directory
 cache/
